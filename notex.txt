@@ -1,0 +1,4 @@
+## repositorio donde saque la informacion
+https://github.com/extr3mis/imgbb
+
+pip install git+https://github.com/extr3mis/imgbb.git
